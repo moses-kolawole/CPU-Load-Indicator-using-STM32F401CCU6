@@ -20,7 +20,7 @@ An LED connected to PA6 is used as a simple processor load indicator. If the cal
 [Click here to check out the project code](code)
 
 ## Project Image
-![check the image out here](Screenshot_2026_07_27_164744.jpg)
+![check the image out here](Screenshot_2026_07_27_164744.png)
 
 ## Features
 
